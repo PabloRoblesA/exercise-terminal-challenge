@@ -1,0 +1,17 @@
+Paso a paso CMD Challenge:
+cd thecmdchallenge
+pwd
+ls -a
+ls -R
+clear
+cd /workspaces/exercise-terminal-challenge/thecmdchallenge/small-name/bigger-name-than-bef...; cat trophy.txt
+cd .. (x3); cd funcode; ls -R *.js
+mkdir /workspaces/exercise-terminal-challenge/thecmdchallenge/funcode/the-most-funny/not-that-funny
+cd ..; cd even-more-boring, cd [tab] (the-ultimate-boring-inception); ls -R *.txt; cp the-mostboring.text lol.txt
+cd ..(x3); cd funcode; mv kids.jpg images/hello
+cd ..(x3); rm -R smallname
+cd funcode>the-most-funny>lol; cat the-ultimate-joke.txt
+cd boringfolder; rm -R *
+cd ..; cd kamehameha; vi kamehameha/dragon-ball-jokes.md
+cd ..; cd kamehameha; vi kamehameha/dragon-ball-jokes.md; supr; :wq
+
